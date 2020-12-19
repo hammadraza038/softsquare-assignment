@@ -18,6 +18,6 @@ Please read the following points before testing the work
 - Images will be automatically added to product posts, linked with 'init' hook
 - Use shortcode '[show_products]' to show products anywhere.
 
-Thanks
-Hammad
+Thanks<br/>
+Hammad<br/>
 alihammad038@gmail.com

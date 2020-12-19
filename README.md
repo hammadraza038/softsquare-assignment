@@ -1,5 +1,5 @@
 
-* Description *
+## Description
 This is an assignment from SoftSquare to work on the following task
 
 - Create a custom post type called Products
@@ -8,7 +8,7 @@ This is an assignment from SoftSquare to work on the following task
 - Each one should have: 1. a different background-color, 2. a different title. 3, a link to a page about it
 - Display these Products on the home page, and make sure that it looks good in every screen size. 
 
-** Instructions to Review **
+## Instructions to Review
 Please read the following points before testing the work
 - The assignment has been done by making a child theme
 - All code is located in functions.php
@@ -20,3 +20,4 @@ Please read the following points before testing the work
 
 Thanks
 Hammad
+alihammad038@gmail.com

@@ -1,5 +1,5 @@
 
-** Description **
+* Description *
 This is an assignment from SoftSquare to work on the following task
 
 - Create a custom post type called Products

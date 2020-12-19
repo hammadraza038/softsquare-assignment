@@ -1,4 +1,4 @@
-# softsquare-assignment
+
 ** Description **
 This is an assignment from SoftSquare to work on the following task
 
